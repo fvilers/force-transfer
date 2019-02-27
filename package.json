@@ -1,0 +1,21 @@
+{
+  "name": "@fvilers/force-download",
+  "version": "0.0.0",
+  "description": "A JavaScript helper to force downloading file in the browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/force-download.git"
+  },
+  "keywords": [
+    "browser",
+    "javascript",
+    "download"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/force-download/issues"
+  },
+  "homepage": "https://github.com/fvilers/force-download#readme"
+}
