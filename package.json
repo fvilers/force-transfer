@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/force-download",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A JavaScript helper to force downloading file in the browser",
   "main": "index.js",
   "repository": {
